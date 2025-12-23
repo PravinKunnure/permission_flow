@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:permission_handler/permission_handler.dart';
-
-import 'permission_type.dart';
+// import 'permission_type.dart';
 import 'permission_result.dart';
 import 'rationale.dart';
 
